@@ -1,0 +1,11 @@
+{
+  "pubkey": "515e21f88352dd6a9b3899fd2f903981fdbac7e72f8f738dd2721e8729ef47be",
+  "widget": {
+    "title": "Publish Nostr Events",
+    "appUrl": "https://fc6009575004.ngrok-free.app",
+    "iconUrl": "https://image.nostr.build/470039a49f4a06c5cf7f576b4eee864a364c624820550e02c61763225fb253df.png",
+    "imageUrl": "https://image.nostr.build/467a81d6a34e1f4ef653009cba43188cfbd8e790d5b75b646dad4ce6d7b61a3c.png",
+    "buttonTitle": "One Click Nostr!",
+    "tags": ["nostr", "events", "btc"]
+  }
+}
